@@ -27,6 +27,7 @@ To clone the repository:
    ```bash
    git clone https://github.com/MedCoder001/Clothing-Image-Classification-Xception.git
    cd Clothing-Image-Classification-Xception
+```
 
 Download the dataset:
 
